@@ -3,7 +3,7 @@ import Alert from './Components/Button';
 
 function App() {
   return (
-    <Button/>
+    <Button>Akindu <span>made a button!</span></Button>
   );
 }
 
